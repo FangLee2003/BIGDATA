@@ -1,8 +1,8 @@
 {
     "type": "record",
-    "name": "Result",
+    "name": "MethodCount",
     "fields": [
-        {"name": "ip", "type": "string"},
+        {"name": "method", "type": "string"},
         {"name": "count", "type": "int"}
     ]
 }

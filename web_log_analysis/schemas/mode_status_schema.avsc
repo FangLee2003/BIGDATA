@@ -1,0 +1,8 @@
+{
+    "type": "record",
+    "name": "ModeStatus",
+    "fields": [
+        {"name": "status", "type": "int"},
+        {"name": "count", "type": "int"}
+    ]
+}

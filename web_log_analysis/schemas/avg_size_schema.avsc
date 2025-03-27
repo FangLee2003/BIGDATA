@@ -1,0 +1,8 @@
+{
+    "type": "record",
+    "name": "AvgRequestSize",
+    "fields": [
+        {"name": "ip", "type": "string"},
+        {"name": "avg_size", "type": "float"}
+    ]
+}
